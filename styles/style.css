@@ -5,8 +5,7 @@
 
 body{
     color: #444;
-    background: rgb(253,104,29);
-    background: radial-gradient(circle, rgba(253,104,29,1) 50%, rgba(252,176,69,0.938813025210084) 100%);
+    background-color: white;
 min-height: 100vh;
 
 }
